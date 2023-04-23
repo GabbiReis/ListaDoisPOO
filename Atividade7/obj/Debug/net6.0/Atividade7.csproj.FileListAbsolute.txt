@@ -1,0 +1,15 @@
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Atividade7\obj\Debug\net6.0\Atividade7.csproj.AssemblyReference.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Atividade7\obj\Debug\net6.0\Atividade7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Atividade7\obj\Debug\net6.0\Atividade7.AssemblyInfoInputs.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Atividade7\obj\Debug\net6.0\Atividade7.AssemblyInfo.cs
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Atividade7\obj\Debug\net6.0\Atividade7.csproj.CoreCompileInputs.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Atividade7\bin\Debug\net6.0\Atividade7.exe
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Atividade7\bin\Debug\net6.0\Atividade7.deps.json
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Atividade7\bin\Debug\net6.0\Atividade7.runtimeconfig.json
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Atividade7\bin\Debug\net6.0\Atividade7.dll
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Atividade7\bin\Debug\net6.0\Atividade7.pdb
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Atividade7\obj\Debug\net6.0\Atividade7.dll
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Atividade7\obj\Debug\net6.0\refint\Atividade7.dll
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Atividade7\obj\Debug\net6.0\Atividade7.pdb
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Atividade7\obj\Debug\net6.0\Atividade7.genruntimeconfig.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Atividade7\obj\Debug\net6.0\ref\Atividade7.dll

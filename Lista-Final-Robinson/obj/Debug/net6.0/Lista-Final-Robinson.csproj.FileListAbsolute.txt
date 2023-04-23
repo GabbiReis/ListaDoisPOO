@@ -1,0 +1,15 @@
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\bin\Debug\net6.0\Lista-Final-Robinson.exe
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\bin\Debug\net6.0\Lista-Final-Robinson.deps.json
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\bin\Debug\net6.0\Lista-Final-Robinson.runtimeconfig.json
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\bin\Debug\net6.0\Lista-Final-Robinson.dll
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\bin\Debug\net6.0\Lista-Final-Robinson.pdb
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\Lista-Final-Robinson.csproj.AssemblyReference.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\Lista-Final-Robinson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\Lista-Final-Robinson.AssemblyInfoInputs.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\Lista-Final-Robinson.AssemblyInfo.cs
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\Lista-Final-Robinson.csproj.CoreCompileInputs.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\Lista-Final-Robinson.dll
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\refint\Lista-Final-Robinson.dll
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\Lista-Final-Robinson.pdb
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\Lista-Final-Robinson.genruntimeconfig.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\ref\Lista-Final-Robinson.dll

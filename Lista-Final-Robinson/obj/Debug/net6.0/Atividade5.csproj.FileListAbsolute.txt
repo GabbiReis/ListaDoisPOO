@@ -1,0 +1,15 @@
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\bin\Debug\net6.0\Atividade5.exe
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\bin\Debug\net6.0\Atividade5.deps.json
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\bin\Debug\net6.0\Atividade5.runtimeconfig.json
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\bin\Debug\net6.0\Atividade5.dll
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\bin\Debug\net6.0\Atividade5.pdb
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\Atividade5.csproj.AssemblyReference.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\Atividade5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\Atividade5.AssemblyInfoInputs.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\Atividade5.AssemblyInfo.cs
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\Atividade5.csproj.CoreCompileInputs.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\Atividade5.dll
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\refint\Atividade5.dll
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\Atividade5.pdb
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\Atividade5.genruntimeconfig.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\Lista-Final-Robinson\Lista-Final-Robinson\obj\Debug\net6.0\ref\Atividade5.dll
